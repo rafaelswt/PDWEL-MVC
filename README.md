@@ -1,5 +1,5 @@
-# PDWEL-MVC   
-Projeto MVC de um Sistema de Controle de Hotel - Rafael Ribeiro SP3024008  
+# PDWEL- MVC - Rafael Ribeiro SP3024008  
+Projeto MVC de um Sistema de Controle de Hotel -  
 • Arquitetura MVC.  
 • Aplicação do Java EE/Jakarta EE.  
 • CSS, Javascript.  

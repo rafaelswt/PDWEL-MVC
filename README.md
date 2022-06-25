@@ -20,5 +20,9 @@ https://www.eclipse.org/webtools/jst/components/ws/1.5/tutorials/InstallTomcat/I
 
 Crie um database com nome nome sistemahotel no postgreSQL  
 
-Abra o Projeto no eclipse execute
+Abra o Projeto no eclipse execute.
 
+![Captura de tela 2022-06-25 012451](https://user-images.githubusercontent.com/54046383/175757945-d06dd21a-6f6a-41d1-806e-38ef058bb8ab.png)  
+![Captura de tela 2022-06-25 012507](https://user-images.githubusercontent.com/54046383/175757950-10407a43-be73-4dc8-b702-7a036a9c2b9e.png)
+![Captura de tela 2022-06-25 012519](https://user-images.githubusercontent.com/54046383/175757952-455e0d5a-3d65-44f1-b804-b4ffd59af861.png)
+![Captura de tela 2022-06-25 012851](https://user-images.githubusercontent.com/54046383/175757983-606be96f-0844-4002-92fa-8831ad67cc12.png)

@@ -6,11 +6,10 @@ Projeto MVC de um Sistema de Controle de Hotel
 • PostgreSQL, Hibernate, jQuery, Bootstrap, Datatables, entre outros.  
 
 Requerimentos
-• Eclipse-ide-java-developers,
-• JDK 
-• Tomcat 10
-• PostgreSQL
-
+• Eclipse-ide-java-developers,  
+• JDK   
+• Tomcat 10  
+• PostgreSQL  
 
 
 

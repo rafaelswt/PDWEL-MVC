@@ -1,5 +1,5 @@
-# PDWEL-MVC Rafael Ribeiro SP3024008
-Projeto MVC de um Sistema de Controle de Hotel
+# PDWEL-MVC   
+Projeto MVC de um Sistema de Controle de Hotel - Rafael Ribeiro SP3024008  
 • Arquitetura MVC.  
 • Aplicação do Java EE/Jakarta EE.  
 • CSS, Javascript.  
@@ -18,9 +18,9 @@ https://www.postgresql.org/download/
 Após a instalação, adicione o Apache ao Eclipse 
 https://www.eclipse.org/webtools/jst/components/ws/1.5/tutorials/InstallTomcat/InstallTomcat.html#:~:text=Open%20Window%20%2D%3E%20Preferences%20%2D%3E,under%20Apache%20(Apache%20Tomcat%20v5  
 
-Crie um database com nome nome sistemahotel no postgreSQL  
+Crie um database com nome de sistemahotel no postgreSQL.  
 
-Abra o Projeto no eclipse execute.
+Abra o Projeto no eclipse e execute.  
 
 ![Captura de tela 2022-06-25 012451](https://user-images.githubusercontent.com/54046383/175757945-d06dd21a-6f6a-41d1-806e-38ef058bb8ab.png)  
 ![Captura de tela 2022-06-25 012507](https://user-images.githubusercontent.com/54046383/175757950-10407a43-be73-4dc8-b702-7a036a9c2b9e.png)

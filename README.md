@@ -5,7 +5,7 @@ Projeto MVC de um Sistema de Controle de Hotel - Rafael Ribeiro SP3024008
 • CSS, Javascript.  
 • PostgreSQL, Hibernate, jQuery, Bootstrap, Datatables, entre outros.  
 
-Requerimentos
+Requerimentos  
 • Eclipse-ide-java-developers, 
 https://www.eclipse.org/downloads/packages/release/2022-06/r/eclipse-ide-enterprise-java-and-web-developers  
 • JDK   

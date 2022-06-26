@@ -21,7 +21,8 @@ Crie um database com nome de sistemahotel no postgreSQL.
 
 Abra o Projeto no eclipse e execute.  
 
-![Captura de tela 2022-06-25 012451](https://user-images.githubusercontent.com/54046383/175757945-d06dd21a-6f6a-41d1-806e-38ef058bb8ab.png)  
-![Captura de tela 2022-06-25 012507](https://user-images.githubusercontent.com/54046383/175757950-10407a43-be73-4dc8-b702-7a036a9c2b9e.png)
-![Captura de tela 2022-06-25 012519](https://user-images.githubusercontent.com/54046383/175757952-455e0d5a-3d65-44f1-b804-b4ffd59af861.png)
+
+![Captura de tela 2022-06-26 194809](https://user-images.githubusercontent.com/54046383/175836690-f8b85054-99b9-41f2-9289-acb8c9c58f88.png)
+![Captura de tela 2022-06-26 194845](https://user-images.githubusercontent.com/54046383/175836695-28eb683c-3aff-4a2c-88b3-532e5a9980b6.png)
+![Captura de tela 2022-06-26 194900](https://user-images.githubusercontent.com/54046383/175836696-4502578d-3090-4cb0-870e-aa9c40fb680e.png)
 ![Captura de tela 2022-06-25 012851](https://user-images.githubusercontent.com/54046383/175757983-606be96f-0844-4002-92fa-8831ad67cc12.png)
